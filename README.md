@@ -1,160 +1,168 @@
-<h1 align="center">Taha Moataz</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Engineer</b>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0E7490,100:10B981&text=Taha%20Moataz&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20Co-Founder&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<p align="center">
-  Building scalable web and mobile applications with modern technologies.<br/>
-  Passionate about clean architecture, performance, and creating products that solve real problems.
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Building+SaaS+Products+from+Idea+to+Launch;Backend+Architecture+%7C+Web+%26+Mobile;Turning+real-world+problems+into+software" alt="Animated typing intro"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/taha-moataz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tahamoataz5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/moataz-00">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/taha-moataz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tahamoataz5@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/moataz-00"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://qexlify.com"><img src="https://img.shields.io/badge/Qexlify-Explore-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Qexlify"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=moataz-00&style=flat-square&color=10B981&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-# 👋 About Me
+## ✦ About Me
 
-I'm a Full-Stack Software Engineer with experience building modern web and mobile applications from concept to deployment.
+Hey, I'm **Taha** — a software engineer, product builder, and co-founder who enjoys turning ideas into useful, reliable products.
 
-I enjoy working across the entire development lifecycle, including:
+I'm a **Communication Engineering graduate (Helwan University, 2025), specialized in software engineering**. My work spans full-stack development, backend systems, SaaS product development, and technical education.
 
-- Backend architecture and API development
-- Frontend and mobile application development
-- Database design and optimization
-- Cloud deployment and DevOps workflows
-- Scalable and maintainable software solutions
+- 🚀 **Co-Founder at [Qexlify](https://qexlify.com)** — building an AI-powered recruitment, assessment, and technical learning platform.
+- 💻 **Pre-Sales Engineer at [Onsite](https://onsite.remotiex.com/home)** — helping users understand product capabilities and find the right solution.
+- 🧑‍🏫 Former backend/full-stack instructor, helping learners turn software concepts into practical skills.
+- 🧠 Interested in clean architecture, system design, SQL, cloud infrastructure, and products that solve real problems.
 
-My goal is to build software that is reliable, performant, and delivers real value to users.
-
----
-
-# 🚀 Technical Skills
-
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-
-## Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+> I enjoy the whole journey: understanding the problem, designing the system, building the product, and helping it reach the people who need it.
 
 ---
 
-# 🌟 Featured Projects
+## ⚡ Tech Stack
 
-## 🏫 Unlink — University Management Platform
+<div align="center">
 
-**Node.js · Express · Next.js · TypeScript · MySQL · AWS**
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,cpp,c&theme=dark" alt="Languages"/>
 
-- Designed and developed a complete university portal system
-- Role-based authentication and authorization
-- RESTful API architecture
-- Cloud deployment and scalable infrastructure
-- Modular and maintainable codebase
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,html,css&theme=dark" alt="Frontend and mobile"/>
 
----
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring&theme=dark" alt="Backend"/>
 
-## 🏋️ DJEDFIT — Fitness Management System
+### Databases, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,git,github,postman,linux&theme=dark" alt="Databases and tools"/>
 
-**Node.js · Express · Next.js · MySQL**
+</div>
 
-- Multi-role dashboards (Admin, Coach, Member)
-- Subscription and membership management
-- Authentication and access control
-- Analytics and reporting features
+<details>
+<summary><b>More about my technical focus</b></summary>
+<br/>
 
----
+| Area | Focus |
+|---|---|
+| Backend engineering | REST APIs, authentication, authorization, modular services, maintainable architecture |
+| Frontend engineering | Responsive interfaces, component-driven development, state management |
+| Data | Relational database design, SQL, query optimization, data modeling |
+| Cloud & delivery | AWS, Docker, deployment workflows, Git-based collaboration |
+| Product | SaaS workflows, recruitment technology, technical assessment, user-focused features |
 
-## 📱 Tavv App
-
-**React Native · Expo · Firebase · Redux**
-
-- Cross-platform mobile application
-- Firebase Authentication and Database
-- Scalable state management with Redux
-- Optimized user experience and performance
-
-🔗 Repository:
-https://github.com/moataz-00/Tavv_app
+</details>
 
 ---
 
-# 📈 GitHub Statistics
+## 🚀 Selected Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moataz-00&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=moataz-00&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-00&layout=compact&theme=tokyonight" />
-</p>
+### 🧠 [Qexlify](https://qexlify.com)
+**AI-powered recruitment, assessment & learning**
+
+A platform bringing candidate screening, technical assessments, hiring workflows, and learning management into one place.
+
+SaaS · AI · Recruitment · Assessments
+
+<a href="https://qexlify.com"><img src="https://img.shields.io/badge/Visit_Qexlify-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Qexlify"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Unlink
+**University management platform**
+
+A university portal experience with role-based access, API-driven services, and a modular web application architecture.
+
+Node.js · Express · Next.js · TypeScript · MySQL · AWS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ DJEDFIT
+**Fitness management system**
+
+A management system with role-specific dashboards, membership and subscription workflows, and reporting features.
+
+Node.js · Express · Next.js · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Tavv App](https://github.com/moataz-00/Tavv_app)
+**Cross-platform mobile app**
+
+A mobile application built with React Native and Expo, using Firebase services and Redux for application state.
+
+React Native · Expo · Firebase · Redux
+
+<a href="https://github.com/moataz-00/Tavv_app"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Currently
+## 📊 GitHub at a Glance
 
-- Building scalable SaaS products
-- Exploring system design and cloud architecture
-- Open to Full-Stack and Backend opportunities
-- Contributing to real-world software projects
+<div align="center">
 
----
+<a href="https://github.com/moataz-00">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=moataz-00&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Taha's GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-00&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+</a>
 
-# 📫 Contact
+<img width="75%" src="https://streak-stats.demolab.com?user=moataz-00&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-📧 **Email:** tahamoataz5@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=moataz-00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 
-💼 **LinkedIn:** https://linkedin.com/in/taha-moataz
-
-🐙 **GitHub:** https://github.com/moataz-00
+</div>
 
 ---
 
-<p align="center">
-  <i>“Great software is built through simplicity, scalability, and attention to detail.”</i>
-</p>
+## 🌱 What I'm Up To
+
+- Building and growing SaaS products, including Qexlify.
+- Exploring system design, backend architecture, and cloud engineering.
+- Creating practical software and sharing knowledge with developers.
+- Open to meaningful opportunities in **Full-Stack and Backend Engineering**.
+
+---
+
+## 🤝 Let's Connect
+
+Have a product idea, a collaboration in mind, or an interesting engineering opportunity? I'd love to hear from you.
+
+<div align="center">
+
+<a href="mailto:tahamoataz5@gmail.com"><img src="https://img.shields.io/badge/Email-tahamoataz5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/taha-moataz/"><img src="https://img.shields.io/badge/LinkedIn-Taha%20Moataz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/moataz-00"><img src="https://img.shields.io/badge/GitHub-moataz--00-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:0E7490,100:0F172A&height=110&section=footer" />
+
+<sub><i>Build with purpose. Keep it simple. Make it scale.</i></sub>
+
+</div>
